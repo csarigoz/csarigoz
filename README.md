@@ -17,8 +17,8 @@ I'm Cagri Sarigoz, a seasoned professional with over 14 years in the trenches of
 - Driving Growth at @CitizenShipper: As the Head of SEO & AI Officer, I'm revolutionizing how we approach marketing and customer support with AI.
 - Building the Future with AI: Co-founder of @intaleai, where we're crafting AI-driven stories for kids with TaleBot.
 - Adventures in Growth: Advising startups worldwide on scaling up, from user acquisition to product pivots.
-- Tech & Security: Managed products at @aselsan and @PicusSecurity, where I honed my skills in product development and marketing strategy.
-- Digital Media: Boosted growth at @onediocom and @NoktaMedia through data-driven marketing and SEO.
+- Tech & Security: Managed products at Aselsan and [Picus Security](https://github.com/picussecurity), where I honed my skills in product development and marketing strategy.
+- Digital Media: Boosted growth at Onedio and Nokta Media through data-driven marketing and SEO.
 
 ### 🎓 Education
 
